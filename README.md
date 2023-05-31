@@ -1,0 +1,1 @@
+# django-atomicity-assignment
